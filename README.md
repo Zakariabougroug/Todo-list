@@ -1,5 +1,5 @@
 # Todo-list
-A todo-list created from 'The Web Development Bootcamp' course from Udemy by Instructor Colt Steele. 
+A todo-list created from 'The Web Development Bootcamp' course from Udemy with Instructor Colt Steele. 
 
 - This Todo-list is simple-made with basic functions for adding a todo-element to the todo-list. 
 - It has animations for when deleting or crossing out elements from the list. 
